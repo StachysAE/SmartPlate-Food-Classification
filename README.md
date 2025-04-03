@@ -18,6 +18,7 @@ SmartPlate is an **AI-powered food nutrition detection system** that classifies 
 
 ## 🚀 How to Use  
 ### 1️⃣ **Clone the Repository**  
+If you have been granted access, you can clone the repository:  
 ```bash
 git clone https://github.com/username/SmartPlate.git
 cd SmartPlate
